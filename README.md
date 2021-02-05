@@ -7,7 +7,7 @@
 - ✍️ I just launched my blogging application!
 - ☁️ I’m currently learning cloud computing
 - 🤝 I’m looking to collaborate with programmers who have knowledge in drone programming
-- 🎯 2020 Goals: Contribute more to Open Source projects
+- 🎯 2021 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I spend my friday night, coding !
 
 <br />
