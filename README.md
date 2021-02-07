@@ -1,4 +1,4 @@
-### Hi there, I'm Sneha 👋
+### Hi there, I'm [Sneha] [website] 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha-blue)](https://www.linkedin.com/in/sneha-veerakumar-2b39081b8/)
 
@@ -38,4 +38,4 @@
 
 - [Google Cloud ready student](https://www.qwiklabs.com/public_profiles/4382fea0-3271-4f46-8cba-2422f986c956)
 
-[website]: https://sneha-veerakumar.herokuapp.com
+[website]: https://snehaveerakumar.github.io/Sneha_Veerakumar.github.io/
