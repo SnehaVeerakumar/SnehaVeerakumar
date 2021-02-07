@@ -1,4 +1,4 @@
-### Hi there, I'm [Sneha][website] 👋
+### Hi there, I'm Sneha 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha-blue)](https://www.linkedin.com/in/sneha-veerakumar-2b39081b8/)
 
