@@ -6,7 +6,7 @@
 
 - 🎯 GSSOC'21 Particpant
 - ☁️ I’m currently learning cloud computing
-- 🤝 I’m looking to collaborate with programmers who have knowledge in drone programming
+- 🤝 I’m looking to collaborate with programmers in drone programming field.
 - ⚡ Fun fact: I spend my friday night, coding !
 
 <br />
