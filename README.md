@@ -4,7 +4,7 @@
 
 ## I'm a sophomore, cloud computing enthusiast and a technical content writer
 
-- 🎯 GSSOC'21 Particpant
+- 🎯 Open source contributer - GSSOC'21 
 - ☁️ I’m currently learning cloud computing
 - 🤝 I’m looking to collaborate with programmers in drone programming field.
 - ⚡ Fun fact: I spend my friday night, coding !
