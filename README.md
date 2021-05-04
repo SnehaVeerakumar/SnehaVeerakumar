@@ -2,12 +2,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha-blue)](https://www.linkedin.com/in/sneha-veerakumar-2b39081b8/)
 
-## I'm a sophomore, cloud computing enthusiast and a technical content writer
+## I'm a sophomore, Microsoft student partner/ambassador, technical content writer.
 
 - 🎯 Open source contributor - GSSOC'21 
 - ☁️ I’m currently learning cloud computing
-- 🤝 I’m looking to collaborate with programmers in drone programming field.
-- ⚡ Fun fact: I spend my friday night, coding !
+- 🤝 I’m looking to collaborate with backend programmers.
+- ⚡ Fun fact: I spend my friday evening, coding !
 
 <br />
 
