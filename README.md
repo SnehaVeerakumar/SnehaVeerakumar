@@ -5,9 +5,6 @@
 ## I'm a sophomore, Microsoft student partner/ambassador, technical content writer.
 
 - 🎯 Open source contributor - Huawei Harmony OS
-- ☁️ I’m currently learning cloud computing
-- 🤝 I’m looking to collaborate with backend programmers.
-- ⚡ Fun fact: I spend my friday evening, coding !
 
 <br />
 
