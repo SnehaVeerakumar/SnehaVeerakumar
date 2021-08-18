@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha-blue)](https://www.linkedin.com/in/sneha-veerakumar-2b39081b8/)
 
-## I'm a sophomore, Microsoft student ambassador, technical content writer.
+## I'm a junior, Microsoft learn student ambassador, technical content writer.
 
 - 🎯 Open source contributor - Huawei Harmony OS
 
