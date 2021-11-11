@@ -4,8 +4,6 @@
 
 ## I'm a junior, Microsoft learn student ambassador, technical content writer.
 
-- 🎯 Open source contributor - Huawei Harmony OS
-
 <br />
 
 ### Languages and Tools:
