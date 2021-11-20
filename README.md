@@ -22,7 +22,6 @@
 <br>
 <hr>
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
-<hr>
 <br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -43,7 +42,7 @@
 <br> <br>
 <hr>
 <h2 align="center">📝 Blogs </h2>
-<hr>
+
 
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c) 
 
@@ -55,7 +54,7 @@
 
 <hr>
 <h2 align="center">🔗 Profile links</h2>
-<hr>
+
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
  - 3 Star Coder.
@@ -70,4 +69,4 @@
  - Cloud Hero, Global rank - 28
  - [https://www.qwiklabs.com/public_profiles/4382fea0-3271-4f46-8cba-2422f986c956](https://www.qwiklabs.com/public_profiles/4382fea0-3271-4f46-8cba-2422f986c956)
 
-<hr>
+
