@@ -1,4 +1,4 @@
-<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
+<img align="left" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <p align="center">
   <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="100" height="100" />
 </p>
@@ -13,7 +13,7 @@
 
 <h3 align="center">
   <em>
-    This is Sneha Veerakumar, a <b>pre-final year</b> undergraduate from <b>Vellore Institute of Technology</b>, Andhra Pradesh. <br>
+    This is Sneha Veerakumar, a <b>pre-final year</b> undergraduate from <b>Vellore Institute of Technology.</b> <br>
     A <b><a href="https://studentambassadors.microsoft.com/en-US/profile/84548"> Microsoft Learn Student Ambassador,</a></b> <b>Technical content writer in GeeksforGeeks</b>&nbsp,<br>and a<b> 3 star coder in Codechef.</b>
   </em> 
   <br>
@@ -22,6 +22,7 @@
 <br>
 <hr>
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
+
 <br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -68,5 +69,8 @@
  - Cloud Ready Student
  - Cloud Hero, Global rank - 28
  - [https://www.qwiklabs.com/public_profiles/4382fea0-3271-4f46-8cba-2422f986c956](https://www.qwiklabs.com/public_profiles/4382fea0-3271-4f46-8cba-2422f986c956)
+
+
+
 
 
