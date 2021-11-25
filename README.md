@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="100" height="100" />
 </p>
 <hr>
-<h1 align="center">Hey, I'm Sneha Veerakumar !</h1>
+<h1 align="center">Hey, I'm <a href="https://snehaveerakumar.github.io/Sneha-Veerakumar/">Sneha Veerakumar </a> !</h1>
 <h3 align="center">CSE Student | Microsoft Learn Student Ambassador | Technical Content Writer</h3>
 
 <p align="center">
@@ -69,8 +69,3 @@
  - Cloud Ready Student
  - Cloud Hero, Global rank - 28
  - [https://www.qwiklabs.com/public_profiles/4382fea0-3271-4f46-8cba-2422f986c956](https://www.qwiklabs.com/public_profiles/4382fea0-3271-4f46-8cba-2422f986c956)
-
-
-
-
-
