@@ -4,7 +4,7 @@
 </p>
 <hr>
 <h1 align="center">Hey, I'm <a href="https://snehaveerakumar.github.io/Sneha-Veerakumar/">Sneha Veerakumar </a> !</h1>
-<h3 align="center">CSE Student | Intern at Hewlett Packard Enterprise | Microsoft Learn Student Ambassador</h3>
+<h3 align="center">CSE Student | Intern'22 Hewlett Packard Enterprise | Microsoft Learn Student Ambassador</h3>
 
 <p align="center">
 <a href="mailto:snehaveerakumar2023@gmail.com"><img src="https://img.shields.io/badge/-snehaveerakumar2023@gmail.com-black?logo=gmail&style=flat-square"/></a>
