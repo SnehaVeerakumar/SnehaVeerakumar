@@ -13,7 +13,7 @@
 
 <h3 align="center">
   <em>
-    This is Sneha Veerakumar, a <b>pre-final year</b> undergraduate from <b>Vellore Institute of Technology.</b> <br>
+    This is Sneha Veerakumar, a <b>Final year</b> undergraduate from <b>Vellore Institute of Technology.</b> <br>
     A <b><a href="https://studentambassadors.microsoft.com/en-US/profile/84548"> Microsoft Learn Student Ambassador,</a></b> <b>Technical content writer in GeeksforGeeks</b>&nbsp,<br>and a<b> 3 star coder in Codechef.</b>
   </em> 
   <br>
