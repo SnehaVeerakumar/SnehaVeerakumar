@@ -4,12 +4,12 @@
 </p>
 <hr>
 <h1 align="center">Hey, I'm <a href="https://snehaveerakumar.github.io/Sneha-Veerakumar/">Sneha Veerakumar </a> !</h1>
-<h3 align="center">CSE Student | Intern'22 Hewlett Packard Enterprise | Microsoft Learn Student Ambassador</h3>
+<h3 align="center">VIT'23 | Intern'22 Hewlett Packard Enterprise | Microsoft Learn Student Ambassador</h3>
 
 <p align="center">
 <a href="mailto:snehaveerakumar2023@gmail.com"><img src="https://img.shields.io/badge/-snehaveerakumar2023@gmail.com-black?logo=gmail&style=flat-square"/></a>
 <a href="https://www.linkedin.com/in/sneha-veerakumar-2b39081b8/"><img src="https://img.shields.io/badge/-Sneha Veerakumar-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://github.com/SnehaVeerakumar"><img src="https://img.shields.io/badge/-SnehaVeerakumar-black?logo=github&style=flat-square"/></a>
+<!-- <a href="https://github.com/SnehaVeerakumar"><img src="https://img.shields.io/badge/-SnehaVeerakumar-black?logo=github&style=flat-square"/></a> -->
 
 <h3 align="center">
   <em>
