@@ -47,6 +47,7 @@
 
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c) 
 
+- [Deploy Django with PostgreSQL as backend in Heroku](https://www.geeksforgeeks.org/deploying-django-app-on-heroku-with-postgres-as-backend/)
 - [Create a cloud monitor in Google cloud platform](https://www.geeksforgeeks.org/google-cloud-platform-creating-a-cloud-monitor/)
 - [Deploy to Google Cloud Storage](https://www.geeksforgeeks.org/google-cloud-platform-deployment-to-cloud-storage/)
 - [Java program to find laplacian matrix](https://www.geeksforgeeks.org/java-program-to-find-laplacian-matrix-of-an-undirected-graph/)
