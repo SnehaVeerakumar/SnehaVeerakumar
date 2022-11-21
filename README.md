@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="100" height="100" />
 </p>
-<hr>
+
 <h1 align="center">Hey, I'm <a href="https://snehaveerakumar.github.io/Sneha-Veerakumar/">Sneha Veerakumar </a> !</h1>
 <h3 align="center">BlackRock Intern'23 | Computer Engineering | VIT'23</h3>
 
