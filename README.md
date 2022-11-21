@@ -4,7 +4,7 @@
 </p>
 <hr>
 <h1 align="center">Hey, I'm <a href="https://snehaveerakumar.github.io/Sneha-Veerakumar/">Sneha Veerakumar </a> !</h1>
-<h3 align="center">VIT'23 | Intern'22 Hewlett Packard Enterprise | Microsoft Learn Student Ambassador</h3>
+<h3 align="center">BlackRock Intern'23 | Computer Engineering | VIT'23</h3>
 
 <p align="center">
 <a href="mailto:snehaveerakumar2023@gmail.com"><img src="https://img.shields.io/badge/-snehaveerakumar2023@gmail.com-black?logo=gmail&style=flat-square"/></a>
@@ -13,14 +13,13 @@
 
 <h3 align="center">
   <em>
-    This is Sneha Veerakumar, a <b>Final year</b> undergraduate from <b>Vellore Institute of Technology.</b> <br>
-    A <b><a href="https://studentambassadors.microsoft.com/en-US/profile/84548"> Microsoft Learn Student Ambassador,</a></b> <b>Technical content writer in GeeksforGeeks</b>&nbsp,<br>and a<b> 3 star coder in Codechef.</b>
+    I am a <b>final year</b> undergraduate from <b>Vellore Institute of Technology.</b> <br>
+    A <b>Technical content writer in GeeksforGeeks</b>,&nbsp<b>Microsoft Learn Student Amabassador</b>&nbsp,<br>and a<b> Technology enthusiast.</b>
   </em> 
   <br>
 </h3>
 </p>
 <br>
-<hr>
 <h2 align="center"> Skills </h2>
 
 <br>
