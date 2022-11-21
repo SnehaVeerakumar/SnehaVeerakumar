@@ -16,10 +16,8 @@
     I am a <b>final year</b> undergraduate from <b>Vellore Institute of Technology.</b> <br>
     A <b>Technical content writer in GeeksforGeeks</b>,&nbsp<b>Microsoft Learn Student Amabassador</b>&nbsp,<br>and a<b> Technology enthusiast.</b>
   </em> 
-  <br>
 </h3>
 </p>
-<br>
 <h2 align="center"> Skills </h2>
 
 <br>
@@ -40,7 +38,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 <br> <br>
-<hr>
+
 <h2 align="center">📝 Blogs </h2>
 
 
@@ -53,7 +51,7 @@
 - [Multithreading in Java](https://www.geeksforgeeks.org/how-to-find-prime-and-palindrome-numbers-using-multi-threading-in-java/)
 - [Exceptions in Java](https://www.geeksforgeeks.org/user-defined-exceptions-using-constructors-in-java/)
 
-<hr>
+
 <h2 align="center">🔗 Profile links</h2>
 
 
